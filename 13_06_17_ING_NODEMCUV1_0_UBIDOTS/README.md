@@ -6,6 +6,8 @@ Este permite al alumno decidir cuando debe regar su planta en función de la hum
 
 El alcande del taller permitira al alumno programar la placa NODEMCU V1.0 que permite la conexión a internet a través de un modulo WiFi (ESP8266) y además publicar los datos obtenidos a través de los sensores conectados en una plataforma con bajo coste como es Ubidots. 
 
+[Comenzamos](./index.md)
+
 
 
 
