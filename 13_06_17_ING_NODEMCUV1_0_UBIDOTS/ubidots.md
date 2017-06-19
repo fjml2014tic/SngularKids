@@ -1,8 +1,7 @@
 #{ing}tech_it : Ubidots
 
 ---
-Volver [Indice](./index.md)
-
+Continuar al  [Paso 4](./configurando_ide_arduino.md) o volver [Indice](./index.md)
 
 
 

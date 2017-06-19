@@ -13,12 +13,9 @@ Para cumplir nuestro objetivo vamos a seguir estos pasos:
 1. [Lineas futuras](./lineas_futuras.md)
 
 
-## More
-
-You can run Node-RED in many platforms, including Azure: https://nodered.org/docs/platforms/azure
-
 ---
-Return to the [main page](./README.md)
+Volver[Leeme](./README.md)
+
 
 
 
